@@ -1,4 +1,7 @@
-### Hi there 👋
+### ¡Hola! 👋
+Soy lincenciada en Educación (PDE).
+Actualmente soy socia fundadora de CADSPE.
+Me puedes preguntar acerca de tecnologías aplicadas a la educación, diseño instruccional y disitnas teorías pedagógicas
 
 <!--
 **melissach93/melissach93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
